@@ -1,0 +1,4 @@
+github.com/artonge/go-csv-tag v1.0.0 h1:yaYWPTgSPx0em0q9weWCbOdF6WD/gyp0x/pWkTBel1Y=
+github.com/artonge/go-csv-tag v1.0.0/go.mod h1:mc0XWgmXkGfYq1Dzyw9XrHTbpgKEc8N8GbI3gtOcfHk=
+github.com/artonge/go-gtfs v1.0.0 h1:bHiNNrs3aFdJSwBaFAatCEAGBmkkKuhehkfVIinjBkA=
+github.com/artonge/go-gtfs v1.0.0/go.mod h1:kbT5rLtKbfHJ7PB4ZvZBTcoGpHkg2xYE06OX2WP9+4c=
